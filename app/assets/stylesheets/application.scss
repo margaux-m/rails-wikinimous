@@ -1,0 +1,30 @@
+@import "bootstrap/scss/bootstrap";
+@import "font-awesome";
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+a {
+  color: #337AA8;
+  text-decoration: none;
+  font-family: Roboto Slab, serif;
+}
+
+.navbar a {
+  font-family: Roboto, serif;
+}
+
+h2 {
+  font-family: Roboto Slab, serif;
+  font-size: 36px;
+}
+
+.card-article {
+  h2 {
+    font-size: 30px;
+  }
+  h2:hover {
+    color: #23527C;
+  }
+}
