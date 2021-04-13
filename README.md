@@ -1,24 +1,11 @@
-# README
+# Wikinimous
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Wikinimous is an anonymous wiki app built with Ruby On Rails.
 
-Things you may want to cover:
+The app includes the following features:
 
-* Ruby version
+- Users can see the list of all the articles.
+- Users can create a new article or update an existing one.
+- Users can see the details of an article.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Done during my time at Le Wagon.
